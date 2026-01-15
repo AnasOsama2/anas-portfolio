@@ -1,0 +1,12 @@
+{
+    "name": "ai-automation-portfolio",
+    "version": "1.0.0",
+    "description": "Professional Portfolio for Anas Osama",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
